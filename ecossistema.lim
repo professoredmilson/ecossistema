@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.5">
+    <config>
+        <recursos>ECOSSISTEMA</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>6</tipo>
+              <cabeceira>Considerando uma lagoa, arraste e organize as palavras corretamente:</cabeceira>
+              <evalua  crt="MUITO BEM!" icrt="TENTE NOVAMENTE!">1</evalua>
+              <nome caixa="1">PEIXES</nome>
+              <nome caixa="1">ALGAS</nome>
+              <nome caixa="1">CARAMUJOS</nome>
+              <nome caixa="2">ÁGUA</nome>
+              <nome caixa="2">CALOR</nome>
+              <nome caixa="2">LUZ</nome>
+              <caixa1>Fatores bióticos</caixa1>
+              <caixa2>Fatores abióticos</caixa2>
+        </paxina>
+        <paxina id="2" >
+              <tipo>7</tipo>
+              <cabeceira>Considerando uma floresta, arraste as imagens para os locais corretos:</cabeceira>
+              <evalua  crt="MUITO BEM!!!!" icrt="TENTE NOVAMENTE!">1</evalua>
+              <caixa1>FATORES BIÓTICOS</caixa1>
+              <caixa2>FATORES ABIÓTICOS</caixa2>
+              <mini caixa="1">ARVORE.jpg</mini>
+              <mini caixa="2">CHUVA.jpg</mini>
+              <mini caixa="1">FORMIGAS.jpg</mini>
+              <mini caixa="2">LUZ.jpg</mini>
+              <mini caixa="1">PASSARO.jpg</mini>
+              <mini caixa="2">NUVENS.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+    </libro>
+</lim>
